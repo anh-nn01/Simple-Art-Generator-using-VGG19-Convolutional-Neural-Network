@@ -10,5 +10,20 @@ Link to the video showing how the NN learn to draw the picture: https://photos.g
 **Note that the point is not to imitate the picture, but to draw the picture from a blank paper so that it looks like a DRAWING of the picture, not an imitation! This explains why the final result does not look 100% like the original one, but more like a drawing!**
 
 Here are some images showing how the NN draw the picture:
-Sample picture:
+
 <img src = "Images/Sample.png">
+<img src = "Images/Epoch 1.png">
+<img src = "Images/Epoch 2.png">
+<img src = "Images/Epoch 3.png">
+<img src = "Images/Epoch 4.png">
+<img src = "Images/Epoch 5.png">
+<img src = "Images/Epoch 6.png">
+<img src = "Images/Epoch 7.png">
+<img src = "Images/Epoch 8.png">
+<img src = "Images/Epoch 9.png">
+<img src = "Images/Epoch 10.png">
+<img src = "Images/Epoch 11.png">
+
+Before training the neural network, the inputs were preprocessed. As a result, the output in this case (the drawing) is also shown in the preprocessed form. Therefore, we need to reverese such preprocessing to obtain the final drawing:
+
+<img src = "Images/Final Drawing.png">
