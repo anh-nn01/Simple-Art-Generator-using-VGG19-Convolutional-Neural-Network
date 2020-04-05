@@ -33,3 +33,8 @@ Here are some images showing how the NN draw the picture:
 Before training the neural network, the inputs were preprocessed. As a result, the output in this case (the drawing) is also shown in the preprocessed form. Therefore, we need to reverese such preprocessing to obtain the final drawing:
 
 <img src = "Images/Final Drawing.png">
+
+
+**Further application of this algorithm:**
+
+This algorithm can be employed in the Neural Style Transfer as the content-optimizer in that project. Beside the content-optimizer, which focuses on the main objects in the picture (people, animals, cars, etc), we also need a style-optimizer algorithm, which analyzes the style of famous pictures (Picasso's, Da Vinci's, abstract art, etc) and tries to make art base on such style.
