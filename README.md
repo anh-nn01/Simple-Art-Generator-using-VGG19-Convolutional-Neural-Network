@@ -15,7 +15,7 @@ Here are some images showing how the NN draw the picture:
 
 <img src = "Images/Sample.png">
 
-**This is how the algorithm did it: **
+**This is how the algorithm did it:**
 
 <img src = "Images/Blank paper.png">
 <img src = "Images/Epoch 1.png">
