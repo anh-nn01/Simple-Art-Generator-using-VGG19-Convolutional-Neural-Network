@@ -11,4 +11,4 @@ Link to the video showing how the NN learn to draw the picture: https://photos.g
 
 Here are some images showing how the NN draw the picture:
 Sample picture:
-<img src = "Sample.png">
+<img src = "Images/Sample.png">
