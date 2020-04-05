@@ -11,7 +11,13 @@ Link to the video showing how the NN learn to draw the picture: https://photos.g
 
 Here are some images showing how the NN draw the picture:
 
+**This picture is what the algorithm have to draw**
+
 <img src = "Images/Sample.png">
+
+**This is how the algorithm did it: **
+
+<img src = "Images/Blank paper.png">
 <img src = "Images/Epoch 1.png">
 <img src = "Images/Epoch 2.png">
 <img src = "Images/Epoch 3.png">
