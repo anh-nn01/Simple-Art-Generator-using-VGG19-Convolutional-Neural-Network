@@ -5,6 +5,6 @@ The intuition is that a convolutional neural network has been train to recognize
 
 Explanation of the main idea: normally, we try to optimize parameters in neural network to have the lowest cost. In this project, parameters are the pixels in the blank paper, and the cost measure how different the activations of the current product with those of the original picture.
 
-Link to the video showing how the NN learn to draw the picture: 
+Link to the video showing how the NN learn to draw the picture: https://photos.google.com/u/2/search/_tv_Video/photo/AF1QipMks2ovhARzlyeZm71KUrbsGd59Bsep00ZsY1Q9
 
 **Note that the point is not to imitate the picture, but to draw the picture from a blank paper so that it looks like a DRAWING of the picture, not an imitation! This explains why the final result does not look 100% like the original one, but more like a drawing!**
