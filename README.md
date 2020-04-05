@@ -8,3 +8,7 @@ Explanation of the main idea: normally, we try to optimize parameters in neural 
 Link to the video showing how the NN learn to draw the picture: https://photos.google.com/u/2/search/_tv_Video/photo/AF1QipMks2ovhARzlyeZm71KUrbsGd59Bsep00ZsY1Q9
 
 **Note that the point is not to imitate the picture, but to draw the picture from a blank paper so that it looks like a DRAWING of the picture, not an imitation! This explains why the final result does not look 100% like the original one, but more like a drawing!**
+
+Here are some images showing how the NN draw the picture:
+Sample picture:
+<img src = "Sample.png">
